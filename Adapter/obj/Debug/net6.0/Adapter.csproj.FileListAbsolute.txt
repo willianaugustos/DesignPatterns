@@ -1,0 +1,16 @@
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/Adapter
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/Adapter.deps.json
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/Adapter.runtimeconfig.json
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/Adapter.dll
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/ref/Adapter.dll
+/Users/willian/Projetos/DesignPatterns/Adapter/bin/Debug/net6.0/Adapter.pdb
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.GlobalUsings.g.cs
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.csproj.AssemblyReference.cache
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfoInputs.cache
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfo.cs
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.dll
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/ref/Adapter.dll
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.pdb
+/Users/willian/Projetos/DesignPatterns/Adapter/obj/Debug/net6.0/Adapter.genruntimeconfig.cache
