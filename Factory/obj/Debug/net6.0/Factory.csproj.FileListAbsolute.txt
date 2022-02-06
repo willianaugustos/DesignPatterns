@@ -1,0 +1,16 @@
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/Factory
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/Factory.deps.json
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/Factory.runtimeconfig.json
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/Factory.dll
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/ref/Factory.dll
+/Users/willian/Projetos/DesignPatterns/Factory/bin/Debug/net6.0/Factory.pdb
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.GlobalUsings.g.cs
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.csproj.AssemblyReference.cache
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.AssemblyInfoInputs.cache
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.AssemblyInfo.cs
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.dll
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/ref/Factory.dll
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.pdb
+/Users/willian/Projetos/DesignPatterns/Factory/obj/Debug/net6.0/Factory.genruntimeconfig.cache
