@@ -1,0 +1,16 @@
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/Observer
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/Observer.deps.json
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/Observer.runtimeconfig.json
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/Observer.dll
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/ref/Observer.dll
+/Users/willian/Projetos/DesignPatterns/Observer/bin/Debug/net6.0/Observer.pdb
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.GlobalUsings.g.cs
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.csproj.AssemblyReference.cache
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.AssemblyInfoInputs.cache
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.AssemblyInfo.cs
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.dll
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/ref/Observer.dll
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.pdb
+/Users/willian/Projetos/DesignPatterns/Observer/obj/Debug/net6.0/Observer.genruntimeconfig.cache
